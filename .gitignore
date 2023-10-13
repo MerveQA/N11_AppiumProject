@@ -1,0 +1,4 @@
+# Project exclude paths
+/target/!/.idea/workspace.xml
+!/src/main/java/utils/Log.java
+!/Reports/
