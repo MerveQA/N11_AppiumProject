@@ -1,8 +1,10 @@
 package utils;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.interactions.PointerInput;
 import org.openqa.selenium.interactions.Sequence;
 import org.openqa.selenium.remote.RemoteWebDriver;
@@ -45,19 +47,14 @@ public class ElementHelper {
     public void clickElement(By locator) {
         WebElement element = driver.findElement(locator);
         element.click();
-        //   try {
-        //       Thread.sleep(5000);
-        //   }catch (InterruptedException e) {
-        //       throw new RuntimeException(e);
-        //   }
+        Log.info("elemente tıklandı");
     }
 
-    // calışmıyor ornek 6
-    // listeden element cliKleme (1)
     public void clickListElement(By locator, String text) {
         boolean check = false;
         List<WebElement> elements = wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(locator));
         for (WebElement element : elements) {
+            System.out.println(element.getText());
             if (element.getText().contains(text)) {
                 element.click();
                 check = true;
@@ -67,7 +64,7 @@ public class ElementHelper {
         Assert.assertTrue(check, "Listede istediğin textdeki elementi bulamadım");
     }
 
-    // listeden element cliKleme (1)
+
     public void cl(By loc, String text) {
         List<WebElement> list = driver.findElements(loc);
         for (WebElement element : list) {
@@ -84,7 +81,10 @@ public class ElementHelper {
 
     public void sendKeys(By locator, String text) {
         WebElement element = driver.findElement(locator);
-        element.sendKeys(text);
+        // element.sendKeys(text);
+        Actions action = new Actions(driver);
+        action.sendKeys(text).sendKeys(Keys.ENTER).build().perform();
+
     }
 
     public String getText(By locator) {
@@ -122,22 +122,21 @@ public class ElementHelper {
         ((RemoteWebDriver) driver).perform(List.of(scroll));
     }
 
-    public void findElementWithScroll(){
-     int i = 0;
-     List<WebElement> elements = driver.findElements(By.xpath(""));
-     String previusPageSource = driver.getPageSource();
-     while(elements.isEmpty()){
-         scrollDown();
-         String nextPageSource = driver.getPageSource();
-         if(previusPageSource == nextPageSource){
-             break;
-         } else {
-             previusPageSource = nextPageSource;
-         }
-         elements = driver.findElements(By.xpath(""));
-         i++;
-     }
-
+    public void findElementWithScroll() {
+        int i = 0;
+        List<WebElement> elements = driver.findElements(By.xpath(""));
+        String previusPageSource = driver.getPageSource();
+        while (elements.isEmpty()) {
+            scrollDown();
+            String nextPageSource = driver.getPageSource();
+            if (previusPageSource == nextPageSource) {
+                break;
+            } else {
+                previusPageSource = nextPageSource;
+            }
+            elements = driver.findElements(By.xpath(""));
+            i++;
+        }
     }
 
     public WebElement scroll(By by) {
@@ -159,6 +158,30 @@ public class ElementHelper {
         return driver.findElements(by).isEmpty();
     }
 
+    public void assertElement(By locator) {
 
+        Assert.assertTrue(driver.findElement(locator).isEnabled());
+        Log.info("Element bulundu");
+    }
 
+    public void clearElement(By locator) {
+
+        driver.findElement(locator).clear();
+        Log.info("Element temizlendi");
+    }
+
+    public void assertElements(By homePageLogo) {
+        Assert.assertTrue(driver.findElement(homePageLogo).isEnabled());
+
+    }
+
+    public void isEnabledListElements(By smartSortItems) {
+        List<WebElement> list = driver.findElements(smartSortItems);
+        for (WebElement element : list) {
+            System.out.println(element.getText());
+        }
+        for (WebElement element : list) {
+            Assert.assertTrue(element.isEnabled());
+        }
+    }
 }
