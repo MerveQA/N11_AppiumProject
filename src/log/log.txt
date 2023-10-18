@@ -23,3 +23,826 @@
 2023-10-15 15:38:32 INFO  - Element bulundu
 2023-10-15 15:38:36 INFO  - Element tÄ±klandÄ±
 2023-10-15 15:38:39 INFO  - Scenario: "Check Search Results" --> Result: PASSED
+2023-10-15 21:25:46 INFO  - Scenario is started: ": Help Button"
+2023-10-15 21:25:58 INFO  - Element tÄ±klandÄ±
+2023-10-15 21:26:08 INFO  - Scenario: ": Help Button" --> Result: FAILED
+2023-10-15 21:27:04 INFO  - Scenario is started: ": Help Button"
+2023-10-15 21:27:15 INFO  - Element tÄ±klandÄ±
+2023-10-15 21:27:29 INFO  - Scenario: ": Help Button" --> Result: FAILED
+2023-10-15 21:28:08 INFO  - Scenario is started: "Home Page catagories"
+2023-10-15 21:28:20 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-15 21:28:20 INFO  - Element bulundu
+2023-10-15 21:28:24 INFO  - Element tÄ±klandÄ±
+2023-10-15 21:28:30 INFO  - Scenario: "Home Page catagories" --> Result: PASSED
+2023-10-15 21:28:49 INFO  - Scenario is started: "Home Page catagories"
+2023-10-15 21:29:01 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-15 21:29:01 INFO  - Element bulundu
+2023-10-15 21:29:05 INFO  - Element tÄ±klandÄ±
+2023-10-15 21:29:12 INFO  - Scenario: "Home Page catagories" --> Result: FAILED
+2023-10-15 21:29:42 INFO  - Scenario is started: "Home Page catagories"
+2023-10-15 21:29:54 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-15 21:29:54 INFO  - Element bulundu
+2023-10-15 21:29:58 INFO  - Element tÄ±klandÄ±
+2023-10-15 21:30:08 INFO  - Scenario: "Home Page catagories" --> Result: PASSED
+2023-10-15 21:30:37 INFO  - Scenario is started: "Home Page catagories"
+2023-10-15 21:30:49 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-15 21:30:49 INFO  - Element bulundu
+2023-10-15 21:30:53 INFO  - Element tÄ±klandÄ±
+2023-10-15 21:30:57 INFO  - Scenario: "Home Page catagories" --> Result: PASSED
+2023-10-15 21:31:48 INFO  - Scenario is started: "Home Page catagories"
+2023-10-15 21:32:00 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-15 21:32:00 INFO  - Element bulundu
+2023-10-15 21:32:04 INFO  - Element tÄ±klandÄ±
+2023-10-15 21:32:12 INFO  - Scenario: "Home Page catagories" --> Result: FAILED
+2023-10-15 21:32:51 INFO  - [TestNG] Running:
+  C:\Users\Asus\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2023-10-15 21:32:53 INFO  - Scenario is started: "Home Page catagories"
+2023-10-15 21:33:05 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-15 21:33:05 INFO  - Element bulundu
+2023-10-15 21:33:09 INFO  - Element tÄ±klandÄ±
+2023-10-15 21:33:24 INFO  - Scenario: "Home Page catagories" --> Result: FAILED
+2023-10-15 21:34:21 INFO  - [TestNG] Running:
+  C:\Users\Asus\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2023-10-15 21:34:21 INFO  - Scenario is started: "Home Page catagories"
+2023-10-15 21:34:34 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-15 21:34:34 INFO  - Element bulundu
+2023-10-15 21:34:36 INFO  - Element tÄ±klandÄ±
+2023-10-15 21:34:36 INFO  - Scenario: "Home Page catagories" --> Result: FAILED
+2023-10-15 21:35:20 INFO  - [TestNG] Running:
+  C:\Users\Asus\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2023-10-15 21:35:21 INFO  - Scenario is started: "Home Page catagories"
+2023-10-15 21:35:34 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-15 21:35:34 INFO  - Element bulundu
+2023-10-15 21:35:37 INFO  - Element tÄ±klandÄ±
+2023-10-15 21:35:42 INFO  - Scenario: "Home Page catagories" --> Result: FAILED
+2023-10-15 21:39:44 INFO  - Scenario is started: ": Help Button"
+2023-10-15 21:40:08 INFO  - Scenario: ": Help Button" --> Result: FAILED
+2023-10-15 21:40:43 INFO  - Scenario is started: ": Help Button"
+2023-10-15 21:41:06 INFO  - Scenario: ": Help Button" --> Result: FAILED
+2023-10-15 21:42:09 INFO  - Scenario is started: ": Help Button"
+2023-10-15 21:42:30 INFO  - Scenario: ": Help Button" --> Result: FAILED
+2023-10-15 21:43:35 INFO  - Scenario is started: ": Help Button"
+2023-10-15 21:43:52 INFO  - Scenario: ": Help Button" --> Result: FAILED
+2023-10-15 21:44:54 INFO  - Scenario is started: ": Help Button"
+2023-10-15 21:45:10 INFO  - Scenario: ": Help Button" --> Result: FAILED
+2023-10-15 21:45:39 INFO  - Scenario is started: ": : Help Button"
+2023-10-15 21:45:58 INFO  - Scenario: ": : Help Button" --> Result: FAILED
+2023-10-15 22:28:42 INFO  - Scenario is started: "Home Page catagories"
+2023-10-15 22:28:54 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-15 22:28:54 INFO  - Element bulundu
+2023-10-15 22:28:58 INFO  - Element tÄ±klandÄ±
+2023-10-15 22:29:05 INFO  - Element tÄ±klandÄ±
+2023-10-15 22:29:06 INFO  - Element tÄ±klandÄ±
+2023-10-15 22:29:09 INFO  - Element tÄ±klandÄ±
+2023-10-15 22:29:10 INFO  - Scenario: "Home Page catagories" --> Result: FAILED
+2023-10-15 22:29:11 INFO  - Scenario is started: "User verifies that the Search box is present on the main page and visible to the user"
+2023-10-15 22:29:22 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-15 22:29:22 INFO  - Element bulundu
+2023-10-15 22:29:25 INFO  - Scenario: "User verifies that the Search box is present on the main page and visible to the user" --> Result: UNDEFINED
+2023-10-15 22:29:57 INFO  - Scenario is started: "User verifies that the Search box is present on the main page and visible to the user"
+2023-10-15 22:30:09 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-15 22:30:09 INFO  - Element bulundu
+2023-10-15 22:30:14 INFO  - Scenario: "User verifies that the Search box is present on the main page and visible to the user" --> Result: FAILED
+2023-10-15 22:31:35 INFO  - Scenario is started: "User verifies that the Search box is present on the main page and visible to the user"
+2023-10-15 22:31:47 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-15 22:31:47 INFO  - Element bulundu
+2023-10-15 22:31:50 INFO  - Element bulundu
+2023-10-15 22:31:51 INFO  - Scenario: "User verifies that the Search box is present on the main page and visible to the user" --> Result: FAILED
+2023-10-15 22:33:50 INFO  - Scenario is started: "User verifies that the Search box is present on the main page and visible to the user"
+2023-10-15 22:34:02 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-15 22:34:02 INFO  - Element bulundu
+2023-10-15 22:34:03 INFO  - Element bulundu
+2023-10-15 22:34:04 INFO  - Scenario: "User verifies that the Search box is present on the main page and visible to the user" --> Result: FAILED
+2023-10-15 22:41:51 INFO  - Scenario is started: "User verifies that the Search box is present on the main page and visible to the user"
+2023-10-15 22:42:05 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-15 22:42:05 INFO  - Element bulundu
+2023-10-15 22:42:08 INFO  - Element bulundu
+2023-10-15 22:42:08 INFO  - Scenario: "User verifies that the Search box is present on the main page and visible to the user" --> Result: PASSED
+2023-10-15 23:04:11 INFO  - Scenario is started: "User verifies that when the user clicks on the search box it moves to the search screen"
+2023-10-15 23:04:23 INFO  - Scenario: "User verifies that when the user clicks on the search box it moves to the search screen" --> Result: FAILED
+2023-10-15 23:04:53 INFO  - Scenario is started: "User verifies that when the user clicks on the search box it moves to the search screen"
+2023-10-15 23:05:05 INFO  - Scenario: "User verifies that when the user clicks on the search box it moves to the search screen" --> Result: FAILED
+2023-10-15 23:07:10 INFO  - Scenario is started: "User verifies that when the user clicks on the search box it moves to the search screen"
+2023-10-15 23:07:22 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-15 23:07:22 INFO  - Element bulundu
+2023-10-15 23:07:27 INFO  - Scenario: "User verifies that when the user clicks on the search box it moves to the search screen" --> Result: PASSED
+2023-10-15 23:07:48 INFO  - Scenario is started: "User verifies that when the user clicks on the search box it moves to the search screen"
+2023-10-15 23:08:01 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-15 23:08:01 INFO  - Element bulundu
+2023-10-15 23:08:06 INFO  - Scenario: "User verifies that when the user clicks on the search box it moves to the search screen" --> Result: PASSED
+2023-10-18 00:05:42 INFO  - Scenario is started: "Home Page catagories"
+2023-10-18 00:05:55 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 00:05:55 INFO  - Element bulundu
+2023-10-18 00:05:59 INFO  - Element tÄ±klandÄ±
+2023-10-18 00:06:03 INFO  - Element tÄ±klandÄ±
+2023-10-18 00:06:05 INFO  - Element tÄ±klandÄ±
+2023-10-18 00:06:08 INFO  - Element tÄ±klandÄ±
+2023-10-18 00:06:09 INFO  - Scenario: "Home Page catagories" --> Result: FAILED
+2023-10-18 00:07:42 INFO  - Scenario is started: "Home Page catagories"
+2023-10-18 00:07:54 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 00:07:54 INFO  - Element bulundu
+2023-10-18 00:07:58 INFO  - Element tÄ±klandÄ±
+2023-10-18 00:08:03 INFO  - Element tÄ±klandÄ±
+2023-10-18 00:08:05 INFO  - Element tÄ±klandÄ±
+2023-10-18 00:08:08 INFO  - Element tÄ±klandÄ±
+2023-10-18 00:08:10 INFO  - Scenario: "Home Page catagories" --> Result: FAILED
+2023-10-18 00:08:46 INFO  - Scenario is started: "Home Page catagories"
+2023-10-18 00:08:58 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 00:08:58 INFO  - Element bulundu
+2023-10-18 00:09:01 INFO  - Element tÄ±klandÄ±
+2023-10-18 00:09:06 INFO  - Element tÄ±klandÄ±
+2023-10-18 00:09:08 INFO  - Element tÄ±klandÄ±
+2023-10-18 00:09:22 INFO  - Scenario: "Home Page catagories" --> Result: FAILED
+2023-10-18 00:09:59 INFO  - Scenario is started: "Home Page catagories"
+2023-10-18 00:10:11 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 00:10:11 INFO  - Element bulundu
+2023-10-18 00:10:14 INFO  - Element tÄ±klandÄ±
+2023-10-18 00:10:21 INFO  - Element tÄ±klandÄ±
+2023-10-18 00:10:22 INFO  - Element tÄ±klandÄ±
+2023-10-18 00:10:26 INFO  - Element tÄ±klandÄ±
+2023-10-18 00:10:39 INFO  - Scenario: "Home Page catagories" --> Result: FAILED
+2023-10-18 00:11:16 INFO  - Scenario is started: "Home Page catagories"
+2023-10-18 00:11:28 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 00:11:28 INFO  - Element bulundu
+2023-10-18 00:11:31 INFO  - Element tÄ±klandÄ±
+2023-10-18 00:11:38 INFO  - Element tÄ±klandÄ±
+2023-10-18 00:11:39 INFO  - Element tÄ±klandÄ±
+2023-10-18 00:11:43 INFO  - Element tÄ±klandÄ±
+2023-10-18 00:11:56 INFO  - Scenario: "Home Page catagories" --> Result: FAILED
+2023-10-18 00:12:17 INFO  - Scenario is started: "Home Page catagories"
+2023-10-18 00:12:29 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 00:12:29 INFO  - Element bulundu
+2023-10-18 00:12:32 INFO  - Element tÄ±klandÄ±
+2023-10-18 00:12:36 INFO  - Element tÄ±klandÄ±
+2023-10-18 00:12:38 INFO  - Element tÄ±klandÄ±
+2023-10-18 00:12:42 INFO  - Element tÄ±klandÄ±
+2023-10-18 00:12:43 INFO  - Scenario: "Home Page catagories" --> Result: PASSED
+2023-10-18 00:12:58 INFO  - Scenario is started: "Home Page catagories"
+2023-10-18 00:13:10 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 00:13:10 INFO  - Element bulundu
+2023-10-18 00:13:13 INFO  - Element tÄ±klandÄ±
+2023-10-18 00:13:16 INFO  - Element tÄ±klandÄ±
+2023-10-18 00:13:17 INFO  - Element tÄ±klandÄ±
+2023-10-18 00:13:20 INFO  - Element tÄ±klandÄ±
+2023-10-18 00:13:22 INFO  - Scenario: "Home Page catagories" --> Result: PASSED
+2023-10-18 00:21:11 INFO  - Scenario is started: "User verifies that the Search box is present on the main page and visible to the user"
+2023-10-18 00:21:23 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 00:21:23 INFO  - Element bulundu
+2023-10-18 00:21:25 INFO  - Element bulundu
+2023-10-18 00:21:25 INFO  - Scenario: "User verifies that the Search box is present on the main page and visible to the user" --> Result: PASSED
+2023-10-18 00:21:39 INFO  - Scenario is started: "User verifies that when the user clicks on the search box it moves to the search screen"
+2023-10-18 00:21:51 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 00:21:51 INFO  - Element bulundu
+2023-10-18 00:21:56 INFO  - Scenario: "User verifies that when the user clicks on the search box it moves to the search screen" --> Result: PASSED
+2023-10-18 00:22:04 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 00:22:16 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 00:22:16 INFO  - Element bulundu
+2023-10-18 00:22:21 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: PASSED
+2023-10-18 00:54:46 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 00:54:58 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 00:54:58 INFO  - Element bulundu
+2023-10-18 00:55:01 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: UNDEFINED
+2023-10-18 00:55:44 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 00:55:58 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 00:55:58 INFO  - Element bulundu
+2023-10-18 00:56:07 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 00:56:32 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 00:56:44 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 00:56:44 INFO  - Element bulundu
+2023-10-18 00:56:54 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 00:59:15 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 00:59:27 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 00:59:27 INFO  - Element bulundu
+2023-10-18 00:59:32 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 00:59:46 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 00:59:58 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 00:59:58 INFO  - Element bulundu
+2023-10-18 01:00:06 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 01:00:55 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 01:01:08 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 01:01:08 INFO  - Element bulundu
+2023-10-18 01:01:12 INFO  - Element temizlendi
+2023-10-18 01:01:18 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 01:02:59 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 01:03:11 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 01:03:11 INFO  - Element bulundu
+2023-10-18 01:03:16 INFO  - Element temizlendi
+2023-10-18 01:03:21 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 01:05:29 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 01:05:39 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 01:05:39 INFO  - Element bulundu
+2023-10-18 01:05:45 INFO  - Element temizlendi
+2023-10-18 01:05:50 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 01:07:00 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 01:07:12 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 01:07:12 INFO  - Element bulundu
+2023-10-18 01:07:21 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 01:09:27 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 01:09:40 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 01:09:40 INFO  - Element bulundu
+2023-10-18 01:09:49 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 01:13:07 INFO  - Scenario is started: "User verifies that when the user clicks on the search box it moves to the search screen"
+2023-10-18 01:13:19 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 01:13:19 INFO  - Element bulundu
+2023-10-18 01:13:24 INFO  - Scenario: "User verifies that when the user clicks on the search box it moves to the search screen" --> Result: PASSED
+2023-10-18 01:14:19 INFO  - Scenario is started: "User verifies that when the user clicks on the search box it moves to the search screen"
+2023-10-18 01:14:31 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 01:14:31 INFO  - Element bulundu
+2023-10-18 01:14:37 INFO  - elemente tÄ±klandÄ±
+2023-10-18 01:14:37 INFO  - Scenario: "User verifies that when the user clicks on the search box it moves to the search screen" --> Result: PASSED
+2023-10-18 01:15:59 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 01:16:12 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 01:16:12 INFO  - Element bulundu
+2023-10-18 01:16:16 INFO  - elemente tÄ±klandÄ±
+2023-10-18 01:16:21 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 01:24:11 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 01:24:23 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 01:24:23 INFO  - Element bulundu
+2023-10-18 01:24:28 INFO  - elemente tÄ±klandÄ±
+2023-10-18 01:24:28 INFO  - Element temizlendi
+2023-10-18 01:24:33 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 01:25:25 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 01:25:38 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 01:25:38 INFO  - Element bulundu
+2023-10-18 01:25:42 INFO  - elemente tÄ±klandÄ±
+2023-10-18 01:25:47 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 01:26:49 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 01:27:02 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 01:27:02 INFO  - Element bulundu
+2023-10-18 01:27:07 INFO  - elemente tÄ±klandÄ±
+2023-10-18 01:27:12 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 01:27:58 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 01:28:12 INFO  - Element bulundu
+2023-10-18 01:28:17 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 01:32:35 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 01:32:47 INFO  - Element bulundu
+2023-10-18 01:32:50 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 01:32:52 INFO  - elemente tÄ±klandÄ±
+2023-10-18 01:32:53 INFO  - elemente tÄ±klandÄ±
+2023-10-18 01:32:53 INFO  - Element temizlendi
+2023-10-18 01:32:55 INFO  - elemente tÄ±klandÄ±
+2023-10-18 01:32:56 INFO  - Element temizlendi
+2023-10-18 01:32:59 INFO  - elemente tÄ±klandÄ±
+2023-10-18 01:33:00 INFO  - Element temizlendi
+2023-10-18 01:33:02 INFO  - elemente tÄ±klandÄ±
+2023-10-18 01:33:03 INFO  - Element temizlendi
+2023-10-18 01:33:06 INFO  - elemente tÄ±klandÄ±
+2023-10-18 01:33:06 INFO  - Element temizlendi
+2023-10-18 01:33:09 INFO  - elemente tÄ±klandÄ±
+2023-10-18 01:33:10 INFO  - Element temizlendi
+2023-10-18 01:33:12 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: PASSED
+2023-10-18 01:45:23 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 01:45:35 INFO  - Element bulundu
+2023-10-18 01:45:39 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 01:45:40 INFO  - elemente tÄ±klandÄ±
+2023-10-18 01:45:41 INFO  - elemente tÄ±klandÄ±
+2023-10-18 01:45:41 INFO  - Element temizlendi
+2023-10-18 01:45:48 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 01:46:10 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 01:46:22 INFO  - Element bulundu
+2023-10-18 01:46:26 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 01:46:28 INFO  - elemente tÄ±klandÄ±
+2023-10-18 01:46:28 INFO  - elemente tÄ±klandÄ±
+2023-10-18 01:46:29 INFO  - Element temizlendi
+2023-10-18 01:46:35 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 01:46:44 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 01:46:56 INFO  - Element bulundu
+2023-10-18 01:47:00 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 01:47:01 INFO  - elemente tÄ±klandÄ±
+2023-10-18 01:47:02 INFO  - elemente tÄ±klandÄ±
+2023-10-18 01:47:02 INFO  - Element temizlendi
+2023-10-18 01:47:09 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 01:47:47 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 01:48:00 INFO  - Element bulundu
+2023-10-18 01:48:02 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 01:48:03 INFO  - elemente tÄ±klandÄ±
+2023-10-18 01:48:04 INFO  - elemente tÄ±klandÄ±
+2023-10-18 01:48:04 INFO  - Element temizlendi
+2023-10-18 01:48:11 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 01:48:21 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 01:48:33 INFO  - Element bulundu
+2023-10-18 01:48:36 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 01:48:38 INFO  - elemente tÄ±klandÄ±
+2023-10-18 01:48:38 INFO  - elemente tÄ±klandÄ±
+2023-10-18 01:48:39 INFO  - Element temizlendi
+2023-10-18 01:48:45 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 01:49:24 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 01:49:37 INFO  - Element bulundu
+2023-10-18 01:49:40 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 01:49:42 INFO  - elemente tÄ±klandÄ±
+2023-10-18 01:49:42 INFO  - Element temizlendi
+2023-10-18 01:49:51 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 01:51:08 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 01:51:19 INFO  - Element bulundu
+2023-10-18 01:51:22 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 01:51:24 INFO  - elemente tÄ±klandÄ±
+2023-10-18 01:51:25 INFO  - elemente tÄ±klandÄ±
+2023-10-18 01:51:25 INFO  - Element temizlendi
+2023-10-18 01:51:32 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 01:52:59 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 01:53:11 INFO  - Element bulundu
+2023-10-18 01:53:15 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 01:53:16 INFO  - elemente tÄ±klandÄ±
+2023-10-18 01:53:17 INFO  - elemente tÄ±klandÄ±
+2023-10-18 01:53:17 INFO  - Element temizlendi
+2023-10-18 01:53:24 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 02:00:26 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 02:00:38 INFO  - Element bulundu
+2023-10-18 02:00:42 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 02:00:43 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:00:44 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:00:44 INFO  - Element temizlendi
+2023-10-18 02:00:51 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 02:01:07 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 02:01:21 INFO  - Element bulundu
+2023-10-18 02:01:24 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 02:01:26 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:01:27 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:01:27 INFO  - Element temizlendi
+2023-10-18 02:01:34 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 02:01:54 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 02:02:06 INFO  - Element bulundu
+2023-10-18 02:02:09 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 02:02:11 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:02:12 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:02:18 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 02:04:19 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 02:04:31 INFO  - Element bulundu
+2023-10-18 02:04:32 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 02:04:33 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:04:34 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:04:34 INFO  - Element temizlendi
+2023-10-18 02:04:41 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 02:05:53 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 02:06:05 INFO  - Element bulundu
+2023-10-18 02:06:09 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 02:06:11 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:06:12 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:06:12 INFO  - Element temizlendi
+2023-10-18 02:06:19 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 02:07:43 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 02:07:55 INFO  - Element bulundu
+2023-10-18 02:07:58 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 02:07:58 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:07:59 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:08:00 INFO  - Element temizlendi
+2023-10-18 02:08:07 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 02:08:24 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 02:08:36 INFO  - Element bulundu
+2023-10-18 02:08:40 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 02:08:41 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:08:42 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:08:42 INFO  - Element temizlendi
+2023-10-18 02:08:49 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 02:09:23 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 02:09:36 INFO  - Element bulundu
+2023-10-18 02:09:38 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 02:09:38 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:09:39 INFO  - Element temizlendi
+2023-10-18 02:09:46 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 02:10:52 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 02:11:04 INFO  - Element bulundu
+2023-10-18 02:11:06 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 02:11:07 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:11:08 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:11:08 INFO  - Element temizlendi
+2023-10-18 02:11:17 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 02:12:19 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 02:12:31 INFO  - Element bulundu
+2023-10-18 02:12:34 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 02:12:35 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:12:36 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:12:36 INFO  - Element temizlendi
+2023-10-18 02:12:43 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 02:14:31 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 02:14:42 INFO  - Element bulundu
+2023-10-18 02:14:48 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 02:14:55 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 02:15:07 INFO  - Element bulundu
+2023-10-18 02:15:11 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 02:15:12 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:15:12 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:15:13 INFO  - Element temizlendi
+2023-10-18 02:15:20 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 02:16:30 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 02:16:42 INFO  - Element bulundu
+2023-10-18 02:16:45 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 02:16:46 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:16:47 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:16:47 INFO  - Element temizlendi
+2023-10-18 02:16:54 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 02:20:20 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 02:20:32 INFO  - Element bulundu
+2023-10-18 02:20:35 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 02:20:37 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:20:38 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:20:38 INFO  - Element temizlendi
+2023-10-18 02:20:45 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 02:23:24 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 02:23:36 INFO  - Element bulundu
+2023-10-18 02:23:39 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 02:23:41 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:23:41 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:23:42 INFO  - Element temizlendi
+2023-10-18 02:23:43 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 02:26:41 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 02:26:53 INFO  - Element bulundu
+2023-10-18 02:26:57 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 02:26:58 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:26:59 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:26:59 INFO  - Element temizlendi
+2023-10-18 02:27:06 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 02:29:00 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 02:29:12 INFO  - Element bulundu
+2023-10-18 02:29:16 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 02:29:17 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:29:18 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:29:18 INFO  - Element temizlendi
+2023-10-18 02:29:26 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 02:29:52 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 02:30:03 INFO  - Element bulundu
+2023-10-18 02:30:07 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 02:30:08 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:30:09 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:30:09 INFO  - Element temizlendi
+2023-10-18 02:30:13 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 02:31:20 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 02:31:31 INFO  - Element bulundu
+2023-10-18 02:31:34 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 02:31:36 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:31:36 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:31:37 INFO  - Element temizlendi
+2023-10-18 02:31:45 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 02:34:14 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 02:34:25 INFO  - Element bulundu
+2023-10-18 02:34:28 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 02:34:30 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:34:31 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:34:31 INFO  - Element temizlendi
+2023-10-18 02:34:39 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 02:35:01 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 02:35:13 INFO  - Element bulundu
+2023-10-18 02:35:16 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 02:35:18 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:35:18 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:35:19 INFO  - Element temizlendi
+2023-10-18 02:35:26 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 02:36:27 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 02:36:38 INFO  - Element bulundu
+2023-10-18 02:36:41 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 02:36:43 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:36:48 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 02:37:52 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 02:38:04 INFO  - Element bulundu
+2023-10-18 02:38:07 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 02:38:09 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:38:09 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:38:10 INFO  - Element temizlendi
+2023-10-18 02:38:18 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 02:41:52 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 02:42:04 INFO  - Element bulundu
+2023-10-18 02:42:07 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 02:42:09 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:42:10 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:42:11 INFO  - Element temizlendi
+2023-10-18 02:42:20 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 02:42:55 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 02:43:07 INFO  - Element bulundu
+2023-10-18 02:43:10 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 02:43:12 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:43:12 INFO  - Element temizlendi
+2023-10-18 02:43:20 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 02:44:07 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 02:44:19 INFO  - Element bulundu
+2023-10-18 02:44:25 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 02:44:40 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 02:44:52 INFO  - Element bulundu
+2023-10-18 02:44:55 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 02:44:57 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:44:58 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:44:58 INFO  - Element temizlendi
+2023-10-18 02:45:05 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 02:47:57 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 02:48:08 INFO  - Element bulundu
+2023-10-18 02:48:11 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 02:48:13 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:48:14 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:48:16 INFO  - Element temizlendi
+2023-10-18 02:48:23 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 02:49:34 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 02:49:45 INFO  - Element bulundu
+2023-10-18 02:49:47 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 02:49:49 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:49:49 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:49:52 INFO  - Element temizlendi
+2023-10-18 02:49:59 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 02:50:07 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 02:50:19 INFO  - Element bulundu
+2023-10-18 02:50:23 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 02:50:24 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:50:25 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:50:27 INFO  - Element temizlendi
+2023-10-18 02:50:34 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 02:50:41 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 02:50:53 INFO  - Element bulundu
+2023-10-18 02:50:56 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 02:50:57 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:50:57 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:51:00 INFO  - Element temizlendi
+2023-10-18 02:51:06 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 02:51:56 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 02:52:08 INFO  - Element bulundu
+2023-10-18 02:52:14 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 02:52:27 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 02:52:39 INFO  - Element bulundu
+2023-10-18 02:52:42 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 02:52:43 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:52:44 INFO  - elemente tÄ±klandÄ±
+2023-10-18 02:52:44 INFO  - Element temizlendi
+2023-10-18 02:52:51 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 02:59:54 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 03:00:06 INFO  - Element bulundu
+2023-10-18 03:00:08 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 03:00:10 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:00:10 INFO  - Element temizlendi
+2023-10-18 03:00:14 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:00:14 INFO  - Element temizlendi
+2023-10-18 03:00:19 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:00:19 INFO  - Element temizlendi
+2023-10-18 03:00:26 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 03:03:55 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 03:04:07 INFO  - Element bulundu
+2023-10-18 03:04:10 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 03:04:12 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:04:12 INFO  - Element temizlendi
+2023-10-18 03:04:16 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:04:17 INFO  - Element temizlendi
+2023-10-18 03:04:20 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:04:21 INFO  - Element temizlendi
+2023-10-18 03:04:27 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 03:04:51 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 03:05:03 INFO  - Element bulundu
+2023-10-18 03:05:07 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 03:05:08 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:05:08 INFO  - Element temizlendi
+2023-10-18 03:05:12 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:05:12 INFO  - Element temizlendi
+2023-10-18 03:05:16 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:05:16 INFO  - Element temizlendi
+2023-10-18 03:05:23 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 03:06:22 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 03:06:34 INFO  - Element bulundu
+2023-10-18 03:06:39 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 03:06:48 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 03:07:00 INFO  - Element bulundu
+2023-10-18 03:07:03 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 03:07:05 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:07:05 INFO  - Element temizlendi
+2023-10-18 03:07:07 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 03:07:22 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 03:07:35 INFO  - Element bulundu
+2023-10-18 03:07:37 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 03:07:39 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:07:39 INFO  - Element temizlendi
+2023-10-18 03:07:45 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 03:07:58 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 03:08:10 INFO  - Element bulundu
+2023-10-18 03:08:13 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 03:08:15 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:08:15 INFO  - Element temizlendi
+2023-10-18 03:08:18 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 03:09:08 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 03:09:20 INFO  - Element bulundu
+2023-10-18 03:09:24 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 03:09:25 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:09:25 INFO  - Element temizlendi
+2023-10-18 03:09:29 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:09:29 INFO  - Element temizlendi
+2023-10-18 03:09:33 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:09:33 INFO  - Element temizlendi
+2023-10-18 03:09:40 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 03:09:57 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 03:10:09 INFO  - Element bulundu
+2023-10-18 03:10:12 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 03:10:14 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:10:14 INFO  - Element temizlendi
+2023-10-18 03:10:18 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:10:18 INFO  - Element temizlendi
+2023-10-18 03:10:21 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:10:22 INFO  - Element temizlendi
+2023-10-18 03:10:29 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 03:10:45 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 03:10:57 INFO  - Element bulundu
+2023-10-18 03:11:00 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 03:11:02 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:11:03 INFO  - Element temizlendi
+2023-10-18 03:11:06 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:11:06 INFO  - Element temizlendi
+2023-10-18 03:11:10 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:11:10 INFO  - Element temizlendi
+2023-10-18 03:11:18 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 03:11:42 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 03:11:54 INFO  - Element bulundu
+2023-10-18 03:11:57 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 03:11:58 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:11:58 INFO  - Element temizlendi
+2023-10-18 03:12:02 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:12:02 INFO  - Element temizlendi
+2023-10-18 03:12:06 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:12:06 INFO  - Element temizlendi
+2023-10-18 03:12:13 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 03:13:52 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 03:14:04 INFO  - Element bulundu
+2023-10-18 03:14:07 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 03:14:09 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:14:09 INFO  - Element temizlendi
+2023-10-18 03:14:13 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:14:13 INFO  - Element temizlendi
+2023-10-18 03:14:17 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:14:17 INFO  - Element temizlendi
+2023-10-18 03:14:24 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 03:14:51 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 03:15:03 INFO  - Element bulundu
+2023-10-18 03:15:05 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 03:15:07 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:15:07 INFO  - Element temizlendi
+2023-10-18 03:15:11 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:15:11 INFO  - Element temizlendi
+2023-10-18 03:15:15 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:15:15 INFO  - Element temizlendi
+2023-10-18 03:15:22 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 03:16:24 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 03:16:35 INFO  - Element bulundu
+2023-10-18 03:16:38 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 03:16:40 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:16:40 INFO  - Element temizlendi
+2023-10-18 03:16:44 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:16:44 INFO  - Element temizlendi
+2023-10-18 03:16:48 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:16:48 INFO  - Element temizlendi
+2023-10-18 03:16:55 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 03:17:33 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 03:17:46 INFO  - Element bulundu
+2023-10-18 03:17:49 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 03:17:51 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:17:51 INFO  - Element temizlendi
+2023-10-18 03:17:54 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:17:55 INFO  - Element temizlendi
+2023-10-18 03:18:01 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 03:18:15 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 03:18:27 INFO  - Element bulundu
+2023-10-18 03:18:30 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 03:18:32 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:18:32 INFO  - Element temizlendi
+2023-10-18 03:18:36 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:18:36 INFO  - Element temizlendi
+2023-10-18 03:18:40 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:18:40 INFO  - Element temizlendi
+2023-10-18 03:18:44 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:18:44 INFO  - Element temizlendi
+2023-10-18 03:18:52 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 03:19:06 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 03:19:18 INFO  - Element bulundu
+2023-10-18 03:19:22 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 03:19:23 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:19:23 INFO  - Element temizlendi
+2023-10-18 03:19:27 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:19:27 INFO  - Element temizlendi
+2023-10-18 03:19:30 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:19:31 INFO  - Element temizlendi
+2023-10-18 03:19:35 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:19:36 INFO  - Element temizlendi
+2023-10-18 03:19:43 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 03:19:59 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 03:20:11 INFO  - Element bulundu
+2023-10-18 03:20:14 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 03:20:16 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:20:16 INFO  - Element temizlendi
+2023-10-18 03:20:20 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:20:20 INFO  - Element temizlendi
+2023-10-18 03:20:24 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:20:24 INFO  - Element temizlendi
+2023-10-18 03:20:28 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:20:28 INFO  - Element temizlendi
+2023-10-18 03:20:36 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 03:20:49 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 03:21:01 INFO  - Element bulundu
+2023-10-18 03:21:04 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 03:21:06 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:21:06 INFO  - Element temizlendi
+2023-10-18 03:21:10 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:21:10 INFO  - Element temizlendi
+2023-10-18 03:21:14 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:21:14 INFO  - Element temizlendi
+2023-10-18 03:21:18 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:21:18 INFO  - Element temizlendi
+2023-10-18 03:21:26 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 03:22:22 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 03:22:34 INFO  - Element bulundu
+2023-10-18 03:22:37 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 03:22:39 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:22:39 INFO  - Element temizlendi
+2023-10-18 03:22:43 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:22:43 INFO  - Element temizlendi
+2023-10-18 03:22:46 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:22:47 INFO  - Element temizlendi
+2023-10-18 03:22:51 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:22:51 INFO  - Element temizlendi
+2023-10-18 03:22:59 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 03:24:57 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 03:25:08 INFO  - Element bulundu
+2023-10-18 03:25:11 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 03:25:13 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:25:13 INFO  - Element temizlendi
+2023-10-18 03:25:16 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 03:25:39 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 03:25:51 INFO  - Element bulundu
+2023-10-18 03:25:54 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 03:25:55 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:25:56 INFO  - Element temizlendi
+2023-10-18 03:25:58 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 03:26:39 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 03:26:51 INFO  - Element bulundu
+2023-10-18 03:26:55 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 03:26:56 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:26:57 INFO  - Element temizlendi
+2023-10-18 03:27:01 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:27:06 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: FAILED
+2023-10-18 03:27:32 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 03:27:44 INFO  - Element bulundu
+2023-10-18 03:27:47 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 03:27:48 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:27:49 INFO  - Element temizlendi
+2023-10-18 03:27:53 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:27:53 INFO  - Element temizlendi
+2023-10-18 03:27:57 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:27:57 INFO  - Element temizlendi
+2023-10-18 03:28:01 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:28:02 INFO  - Element temizlendi
+2023-10-18 03:28:06 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: PASSED
+2023-10-18 03:28:19 INFO  - Scenario is started: "User verifies that letters, numbers, characters and their combinations can be entered in the search box."
+2023-10-18 03:28:31 INFO  - Element bulundu
+2023-10-18 03:28:35 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 03:28:36 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:28:36 INFO  - Element temizlendi
+2023-10-18 03:28:40 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:28:41 INFO  - Element temizlendi
+2023-10-18 03:28:45 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:28:45 INFO  - Element temizlendi
+2023-10-18 03:28:50 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:28:50 INFO  - Element temizlendi
+2023-10-18 03:28:54 INFO  - Scenario: "User verifies that letters, numbers, characters and their combinations can be entered in the search box." --> Result: PASSED
+2023-10-18 03:43:20 INFO  - Scenario is started: "The user can sort the search results by smart sorting, that is, increasing price,"
+2023-10-18 03:43:32 INFO  - Element bulundu
+2023-10-18 03:43:35 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 03:43:36 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:43:36 INFO  - Scenario: "The user can sort the search results by smart sorting, that is, increasing price," --> Result: UNDEFINED
+2023-10-18 03:43:53 INFO  - Scenario is started: "The user can sort the search results by smart sorting, that is, increasing price,"
+2023-10-18 03:44:06 INFO  - Element bulundu
+2023-10-18 03:44:09 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 03:44:10 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:44:13 INFO  - Scenario: "The user can sort the search results by smart sorting, that is, increasing price," --> Result: PASSED
+2023-10-18 03:44:37 INFO  - Scenario is started: "The user can sort the search results by smart sorting, that is, increasing price,"
+2023-10-18 03:44:50 INFO  - Element bulundu
+2023-10-18 03:44:53 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 03:44:55 INFO  - elemente tÄ±klandÄ±
+2023-10-18 03:44:58 INFO  - Scenario: "The user can sort the search results by smart sorting, that is, increasing price," --> Result: PASSED
+2023-10-18 03:59:24 INFO  - Scenario is started: "User should be able to access the answers he/she wants to frequently asked questions."
+2023-10-18 03:59:51 INFO  - Scenario: "User should be able to access the answers he/she wants to frequently asked questions." --> Result: FAILED
+2023-10-18 04:00:27 INFO  - Scenario is started: "User should be able to access the answers he/she wants to frequently asked questions."
+2023-10-18 04:01:07 INFO  - Scenario is started: "User should be able to access the answers he/she wants to frequently asked questions."
+2023-10-18 04:01:31 INFO  - Scenario: "User should be able to access the answers he/she wants to frequently asked questions." --> Result: FAILED
+2023-10-18 04:01:59 INFO  - Scenario is started: "Home Page catagories"
+2023-10-18 04:02:11 INFO  - Element bulundu
+2023-10-18 04:02:15 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 04:02:21 INFO  - Element tÄ±klandÄ±
+2023-10-18 04:02:22 INFO  - Element tÄ±klandÄ±
+2023-10-18 04:02:25 INFO  - Element tÄ±klandÄ±
+2023-10-18 04:02:27 INFO  - Element tÄ±klandÄ±
+2023-10-18 04:02:27 INFO  - Scenario: "Home Page catagories" --> Result: PASSED
+2023-10-18 04:03:06 INFO  - Scenario is started: "User should be able to access the answers he/she wants to frequently asked questions."
+2023-10-18 04:03:18 INFO  - Element bulundu
+2023-10-18 04:03:22 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 04:03:28 INFO  - Scenario: "User should be able to access the answers he/she wants to frequently asked questions." --> Result: FAILED
+2023-10-18 04:03:42 INFO  - Scenario is started: "User should be able to access the answers he/she wants to frequently asked questions."
+2023-10-18 04:03:54 INFO  - Element bulundu
+2023-10-18 04:03:57 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 04:04:03 INFO  - Scenario: "User should be able to access the answers he/she wants to frequently asked questions." --> Result: FAILED
+2023-10-18 04:05:06 INFO  - Scenario is started: "User should be able to access the answers he/she wants to frequently asked questions."
+2023-10-18 04:05:17 INFO  - Element bulundu
+2023-10-18 04:05:19 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 04:05:28 INFO  - Scenario: "User should be able to access the answers he/she wants to frequently asked questions." --> Result: FAILED
+2023-10-18 04:11:39 INFO  - Scenario is started: "User should be able to access the answers he/she wants to frequently asked questions."
+2023-10-18 04:11:51 INFO  - Element bulundu
+2023-10-18 04:11:55 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 04:11:55 INFO  - Scenario: "User should be able to access the answers he/she wants to frequently asked questions." --> Result: UNDEFINED
+2023-10-18 04:12:12 INFO  - Scenario is started: "User should be able to access the answers he/she wants to frequently asked questions."
+2023-10-18 04:12:24 INFO  - Element bulundu
+2023-10-18 04:12:28 INFO  - HomePage gÃ¶rÃ¼ldÃ¼
+2023-10-18 04:12:31 INFO  - elemente tÄ±klandÄ±
+2023-10-18 04:12:31 INFO  - elemente tÄ±klandÄ±
+2023-10-18 04:12:32 INFO  - Element bulundu
+2023-10-18 04:12:32 INFO  - Scenario: "User should be able to access the answers he/she wants to frequently asked questions." --> Result: PASSED
