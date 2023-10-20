@@ -1,21 +1,21 @@
 package utils;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import io.appium.java_client.AppiumBy;
+import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.PointerInput;
 import org.openqa.selenium.interactions.Sequence;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
+import io.appium.java_client.MobileBy;
 
 import java.time.Duration;
 import java.util.List;
 
 public class ElementHelper {
 
-    private WebDriver driver;
+    private static WebDriver driver;
     private WebDriverWait wait;
 
 
@@ -30,12 +30,20 @@ public class ElementHelper {
         for (WebElement e : elements) {
             System.out.println(e.getText());
         }
-
     }
 
     public void findElement(By locator) {
         Log.info("Element bulundu");
         driver.findElement(locator);
+    }
+
+    public void ifDisplayedClose(By locator, By closeButton) {
+        try {
+            if (driver.findElement(locator).isDisplayed()) {
+                driver.findElement(closeButton).click();
+            }
+        } catch (NoSuchElementException ignored) {
+        }
     }
 
     public WebElement checkElement(By locator) {
@@ -52,8 +60,18 @@ public class ElementHelper {
         //   }
     }
 
+    public void clickElementAccess(String accessID) {
+        WebElement element = driver.findElement(MobileBy.AccessibilityId(accessID));
+        element.click();
+        //   try {
+        //       Thread.sleep(5000);
+        //   }catch (InterruptedException e) {
+        //       throw new RuntimeException(e);
+        //   }
+    }
     // calışmıyor ornek 6
     // listeden element cliKleme (1)
+
     public void clickListElement(By locator, String text) {
         boolean check = false;
         List<WebElement> elements = wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(locator));
@@ -65,6 +83,33 @@ public class ElementHelper {
             }
         }
         Assert.assertTrue(check, "Listede istediğin textdeki elementi bulamadım");
+    }
+
+    public void clickListElementNumber(By locator, int number) {
+        List<WebElement> elements = wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(locator));
+        WebElement element = elements.get(number - 1);
+        element.click();
+    }
+
+    public void sendKeysListElement(By locator, String elementText, String text) {
+        boolean check = false;
+        List<WebElement> elements = wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(locator));
+        for (WebElement element : elements) {
+            if (element.getText().contains(elementText)) {
+                element.click();
+                element.sendKeys(text);
+                check = true;
+                break;
+            }
+        }
+        Assert.assertTrue(check, "Listede istediğin textdeki elementi bulamadım");
+    }
+
+    public void clearSendKeysListElement(By locator, int number, String text) {
+        List<WebElement> elements = wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(locator));
+        WebElement element = elements.get(number - 1);
+        element.clear();
+        element.sendKeys(text);
     }
 
     // listeden element cliKleme (1)
@@ -79,12 +124,17 @@ public class ElementHelper {
                 break;
             }
         }
-
     }
 
     public void sendKeys(By locator, String text) {
         WebElement element = driver.findElement(locator);
         element.sendKeys(text);
+    }
+
+    public static void sendKeysWithJS(By locator, String text) {
+        WebElement element = driver.findElement(locator);
+        JavascriptExecutor jse = (JavascriptExecutor) driver;
+        jse.executeScript("arguments[0].value = arguments[1]", element, text);
     }
 
     public String getText(By locator) {
@@ -122,21 +172,21 @@ public class ElementHelper {
         ((RemoteWebDriver) driver).perform(List.of(scroll));
     }
 
-    public void findElementWithScroll(){
-     int i = 0;
-     List<WebElement> elements = driver.findElements(By.xpath(""));
-     String previusPageSource = driver.getPageSource();
-     while(elements.isEmpty()){
-         scrollDown();
-         String nextPageSource = driver.getPageSource();
-         if(previusPageSource == nextPageSource){
-             break;
-         } else {
-             previusPageSource = nextPageSource;
-         }
-         elements = driver.findElements(By.xpath(""));
-         i++;
-     }
+    public void findElementWithScroll() {
+        int i = 0;
+        List<WebElement> elements = driver.findElements(By.xpath(""));
+        String previusPageSource = driver.getPageSource();
+        while (elements.isEmpty()) {
+            scrollDown();
+            String nextPageSource = driver.getPageSource();
+            if (previusPageSource == nextPageSource) {
+                break;
+            } else {
+                previusPageSource = nextPageSource;
+            }
+            elements = driver.findElements(By.xpath(""));
+            i++;
+        }
 
     }
 
@@ -158,7 +208,6 @@ public class ElementHelper {
     public boolean checkElemenEnabled(By by) {
         return driver.findElements(by).isEmpty();
     }
-
 
 
 }

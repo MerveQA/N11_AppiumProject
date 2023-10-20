@@ -1,2 +1,293 @@
+2023-10-18 14:51:36 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
 
+2023-10-18 14:51:36 INFO  - Scenario is started: "User can create new account"
+2023-10-18 14:52:05 INFO  - Scenario: "User can create new account" --> Result: FAILED
+2023-10-18 15:04:39 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
 
+2023-10-18 15:04:39 INFO  - Scenario is started: "User can create new account"
+2023-10-18 15:05:03 INFO  - Scenario: "User can create new account" --> Result: FAILED
+2023-10-18 15:05:46 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-18 15:05:46 INFO  - Scenario is started: "User can create new account"
+2023-10-18 15:06:08 INFO  - Scenario: "User can create new account" --> Result: FAILED
+2023-10-18 15:06:20 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-18 15:06:21 INFO  - Scenario is started: "User can create new account"
+2023-10-18 15:06:37 INFO  - Scenario: "User can create new account" --> Result: FAILED
+2023-10-18 15:07:13 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-18 15:07:13 INFO  - Scenario is started: "User can create new account"
+2023-10-18 15:07:43 INFO  - Scenario: "User can create new account" --> Result: FAILED
+2023-10-18 15:08:33 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-18 15:08:33 INFO  - Scenario is started: "User can create new account"
+2023-10-18 15:08:50 INFO  - Scenario: "User can create new account" --> Result: FAILED
+2023-10-18 15:08:55 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-18 15:08:55 INFO  - Scenario is started: "User can create new account"
+2023-10-18 15:09:12 INFO  - Scenario: "User can create new account" --> Result: FAILED
+2023-10-18 15:12:04 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-18 15:12:04 INFO  - Scenario is started: "User can create new account"
+2023-10-18 15:12:30 INFO  - Scenario: "User can create new account" --> Result: FAILED
+2023-10-18 15:12:42 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-18 15:12:42 INFO  - Scenario is started: "User can create new account"
+2023-10-18 15:13:11 INFO  - Scenario: "User can create new account" --> Result: PASSED
+2023-10-18 15:16:43 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-18 15:16:43 INFO  - Scenario is started: "User can create new account"
+2023-10-18 15:17:11 INFO  - Scenario: "User can create new account" --> Result: PASSED
+2023-10-18 15:27:14 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-18 15:27:14 INFO  - Scenario is started: "User can create new account"
+2023-10-18 15:27:49 INFO  - Scenario: "User can create new account" --> Result: FAILED
+2023-10-18 15:32:13 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-18 15:32:13 INFO  - Scenario is started: "User can create new account"
+2023-10-18 15:32:43 INFO  - Scenario: "User can create new account" --> Result: PASSED
+2023-10-19 04:53:30 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-19 04:53:31 INFO  - Scenario is started: "User can change the user name"
+2023-10-19 04:53:52 INFO  - Scenario: "User can change the user name" --> Result: PASSED
+2023-10-19 05:15:34 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-19 05:15:34 INFO  - Scenario is started: "User can change the user name"
+2023-10-19 05:16:05 INFO  - Scenario: "User can change the user name" --> Result: PASSED
+2023-10-19 06:32:41 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-19 06:32:42 INFO  - Scenario is started: "User creates a coupon and take the point back"
+2023-10-19 06:33:12 INFO  - Scenario: "User creates a coupon and take the point back" --> Result: FAILED
+2023-10-19 06:33:54 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-19 06:33:54 INFO  - Scenario is started: "User creates a coupon and take the point back"
+2023-10-19 06:34:18 INFO  - Scenario: "User creates a coupon and take the point back" --> Result: FAILED
+2023-10-19 06:34:27 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-19 06:34:27 INFO  - Scenario is started: "User creates a coupon and take the point back"
+2023-10-19 06:34:55 INFO  - Scenario: "User creates a coupon and take the point back" --> Result: FAILED
+2023-10-19 06:37:50 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-19 06:37:50 INFO  - Scenario is started: "User creates a coupon and take the point back"
+2023-10-19 06:38:22 INFO  - Scenario: "User creates a coupon and take the point back" --> Result: FAILED
+2023-10-19 06:38:46 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-19 06:38:47 INFO  - Scenario is started: "User creates a coupon and take the point back"
+2023-10-19 06:39:22 INFO  - Scenario: "User creates a coupon and take the point back" --> Result: FAILED
+2023-10-19 08:16:29 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-19 08:16:29 INFO  - Scenario is started: "User creates a coupon and take the point back"
+2023-10-19 08:17:06 INFO  - Scenario: "User creates a coupon and take the point back" --> Result: FAILED
+2023-10-19 08:27:42 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-19 08:27:43 INFO  - Scenario is started: "User creates a coupon and take the point back"
+2023-10-19 08:27:51 INFO  - Scenario: "User creates a coupon and take the point back" --> Result: FAILED
+2023-10-19 08:33:28 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-19 08:33:28 INFO  - Scenario is started: "User creates a coupon and take the point back"
+2023-10-19 08:34:03 INFO  - Scenario: "User creates a coupon and take the point back" --> Result: FAILED
+2023-10-19 10:32:29 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-19 10:32:29 INFO  - Scenario is started: "User creates a coupon and take the point back"
+2023-10-19 10:32:52 INFO  - Scenario: "User creates a coupon and take the point back" --> Result: FAILED
+2023-10-19 10:33:12 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-19 10:33:13 INFO  - Scenario is started: "User creates a coupon and take the point back"
+2023-10-19 10:33:47 INFO  - Scenario: "User creates a coupon and take the point back" --> Result: FAILED
+2023-10-19 10:35:23 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-19 10:35:23 INFO  - Scenario is started: "User creates a coupon and take the point back"
+2023-10-19 10:35:57 INFO  - Scenario: "User creates a coupon and take the point back" --> Result: FAILED
+2023-10-20 03:19:34 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-20 03:19:35 INFO  - Scenario is started: "User creates a coupon and take the point back"
+2023-10-20 03:20:09 INFO  - Scenario: "User creates a coupon and take the point back" --> Result: FAILED
+2023-10-20 03:38:58 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-20 03:38:58 INFO  - Scenario is started: "User creates a coupon and take the point back"
+2023-10-20 03:39:33 INFO  - Scenario: "User creates a coupon and take the point back" --> Result: FAILED
+2023-10-20 03:39:49 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-20 03:39:50 INFO  - Scenario is started: "User creates a coupon and take the point back"
+2023-10-20 03:40:19 INFO  - Scenario: "User creates a coupon and take the point back" --> Result: FAILED
+2023-10-20 03:40:27 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-20 03:40:28 INFO  - Scenario is started: "User creates a coupon and take the point back"
+2023-10-20 03:41:05 INFO  - Scenario: "User creates a coupon and take the point back" --> Result: FAILED
+2023-10-20 03:42:49 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-20 03:42:50 INFO  - Scenario is started: "User creates a coupon and take the point back"
+2023-10-20 03:43:20 INFO  - Scenario: "User creates a coupon and take the point back" --> Result: FAILED
+2023-10-20 03:43:53 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-20 03:43:53 INFO  - Scenario is started: "User creates a coupon and take the point back"
+2023-10-20 03:44:23 INFO  - Scenario: "User creates a coupon and take the point back" --> Result: FAILED
+2023-10-20 03:45:52 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-20 03:45:52 INFO  - Scenario is started: "User creates a coupon and take the point back"
+2023-10-20 03:46:27 INFO  - Scenario: "User creates a coupon and take the point back" --> Result: FAILED
+2023-10-20 03:46:53 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-20 03:46:54 INFO  - Scenario is started: "User creates a coupon and take the point back"
+2023-10-20 03:47:25 INFO  - Scenario: "User creates a coupon and take the point back" --> Result: FAILED
+2023-10-20 03:47:59 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-20 03:48:00 INFO  - Scenario is started: "User creates a coupon and take the point back"
+2023-10-20 03:48:29 INFO  - Scenario: "User creates a coupon and take the point back" --> Result: FAILED
+2023-10-20 03:48:34 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-20 03:48:35 INFO  - Scenario is started: "User creates a coupon and take the point back"
+2023-10-20 03:49:12 INFO  - Scenario: "User creates a coupon and take the point back" --> Result: FAILED
+2023-10-20 03:53:50 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-20 03:53:50 INFO  - Scenario is started: "User creates a coupon and take the point back"
+2023-10-20 03:54:21 INFO  - Scenario: "User creates a coupon and take the point back" --> Result: FAILED
+2023-10-20 03:54:37 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-20 03:54:38 INFO  - Scenario is started: "User creates a coupon and take the point back"
+2023-10-20 03:55:07 INFO  - Scenario: "User creates a coupon and take the point back" --> Result: FAILED
+2023-10-20 03:55:50 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-20 03:55:51 INFO  - Scenario is started: "User creates a coupon and take the point back"
+2023-10-20 03:56:20 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-20 03:56:21 INFO  - Scenario is started: "User creates a coupon and take the point back"
+2023-10-20 03:56:55 INFO  - Scenario: "User creates a coupon and take the point back" --> Result: FAILED
+2023-10-20 03:58:23 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-20 03:58:24 INFO  - Scenario is started: "User creates a coupon and take the point back"
+2023-10-20 03:58:57 INFO  - Scenario: "User creates a coupon and take the point back" --> Result: FAILED
+2023-10-20 04:02:14 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-20 04:02:15 INFO  - Scenario is started: "User creates a coupon and take the point back"
+2023-10-20 04:02:49 INFO  - Scenario: "User creates a coupon and take the point back" --> Result: FAILED
+2023-10-20 04:14:46 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-20 04:14:46 INFO  - Scenario is started: "User creates a coupon and take the point back"
+2023-10-20 04:15:19 INFO  - Scenario: "User creates a coupon and take the point back" --> Result: FAILED
+2023-10-20 04:18:58 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-20 04:18:59 INFO  - Scenario is started: "User creates a coupon and take the point back"
+2023-10-20 04:19:34 INFO  - Scenario: "User creates a coupon and take the point back" --> Result: FAILED
+2023-10-20 04:25:18 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-20 04:25:18 INFO  - Scenario is started: "User creates a coupon and take the point back"
+2023-10-20 04:25:51 INFO  - Scenario: "User creates a coupon and take the point back" --> Result: PASSED
+2023-10-20 04:27:21 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-20 04:27:22 INFO  - Scenario is started: "User creates a coupon and take the point back"
+2023-10-20 04:27:56 INFO  - Scenario: "User creates a coupon and take the point back" --> Result: PASSED
+2023-10-20 04:50:26 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-20 04:50:27 INFO  - Scenario is started: "User creates a coupon to friend and take the point back"
+2023-10-20 04:50:27 INFO  - Scenario is started: "User creates a coupon to friend and take the point back"
+2023-10-20 04:50:37 INFO  - Scenario: "User creates a coupon to friend and take the point back" --> Result: FAILED
+2023-10-20 04:50:39 INFO  - Scenario: "User creates a coupon to friend and take the point back" --> Result: FAILED
+2023-10-20 04:51:16 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-20 04:51:17 INFO  - Scenario is started: "User creates a coupon to friend and take the point back"
+2023-10-20 04:51:17 INFO  - Scenario is started: "User creates a coupon to friend and take the point back"
+2023-10-20 04:51:22 INFO  - Scenario: "User creates a coupon to friend and take the point back" --> Result: FAILED
+2023-10-20 04:51:25 INFO  - Scenario: "User creates a coupon to friend and take the point back" --> Result: FAILED
+2023-10-20 04:51:55 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-20 04:51:55 INFO  - Scenario is started: "User creates a coupon to friend and take the point back"
+2023-10-20 04:51:55 INFO  - Scenario is started: "User creates a coupon to friend and take the point back"
+2023-10-20 04:52:00 INFO  - Scenario: "User creates a coupon to friend and take the point back" --> Result: FAILED
+2023-10-20 04:52:02 INFO  - Scenario: "User creates a coupon to friend and take the point back" --> Result: FAILED
+2023-10-20 04:55:34 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-20 04:55:35 INFO  - Scenario is started: "User creates a coupon to friend and take the point back"
+2023-10-20 04:55:35 INFO  - Scenario is started: "User creates a coupon to friend and take the point back"
+2023-10-20 04:56:09 INFO  - Scenario: "User creates a coupon to friend and take the point back" --> Result: FAILED
+2023-10-20 04:56:36 INFO  - Scenario: "User creates a coupon to friend and take the point back" --> Result: FAILED
+2023-10-20 04:57:27 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-20 04:57:27 INFO  - Scenario is started: "User creates a coupon to friend and take the point back"
+2023-10-20 04:57:27 INFO  - Scenario is started: "User creates a coupon to friend and take the point back"
+2023-10-20 04:57:39 INFO  - Scenario: "User creates a coupon to friend and take the point back" --> Result: FAILED
+2023-10-20 04:57:41 INFO  - Scenario: "User creates a coupon to friend and take the point back" --> Result: FAILED
+2023-10-20 04:58:21 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-20 04:58:22 INFO  - Scenario is started: "User creates a coupon to friend and take the point back"
+2023-10-20 04:58:22 INFO  - Scenario is started: "User creates a coupon to friend and take the point back"
+2023-10-20 04:58:26 INFO  - Scenario: "User creates a coupon to friend and take the point back" --> Result: FAILED
+2023-10-20 04:58:31 INFO  - Scenario: "User creates a coupon to friend and take the point back" --> Result: FAILED
+2023-10-20 04:59:37 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-20 04:59:38 INFO  - Scenario is started: "User creates a coupon to friend and take the point back"
+2023-10-20 04:59:38 INFO  - Scenario is started: "User creates a coupon to friend and take the point back"
+2023-10-20 04:59:42 INFO  - Scenario: "User creates a coupon to friend and take the point back" --> Result: FAILED
+2023-10-20 04:59:47 INFO  - Scenario: "User creates a coupon to friend and take the point back" --> Result: FAILED
+2023-10-20 05:00:23 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-20 05:00:23 INFO  - Scenario is started: "User creates a coupon to friend and take the point back"
+2023-10-20 05:00:29 INFO  - Scenario: "User creates a coupon to friend and take the point back" --> Result: FAILED
+2023-10-20 05:00:52 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-20 05:00:52 INFO  - Scenario is started: "User creates a coupon to friend and take the point back"
+2023-10-20 05:00:59 INFO  - Scenario: "User creates a coupon to friend and take the point back" --> Result: FAILED
+2023-10-20 05:01:57 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-20 05:01:57 INFO  - Scenario is started: "User creates a coupon to friend and take the point back"
+2023-10-20 05:02:03 INFO  - Scenario: "User creates a coupon to friend and take the point back" --> Result: FAILED
+2023-10-20 05:20:16 INFO  - [TestNG] Running:
+  /Users/faruk/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2023-10-20 05:20:16 INFO  - Scenario is started: "User creates a coupon to friend and take the point back"
+2023-10-20 05:21:14 INFO  - Scenario: "User creates a coupon to friend and take the point back" --> Result: PASSED
